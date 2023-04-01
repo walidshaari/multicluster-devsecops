@@ -30,7 +30,7 @@ global:
     # TODO: Move back to the hub chart, store in a configmap, have an ACM policy distribute to spoke clusters, have spoke look up from configmap
     org:
       name: abc_corp
-      email: walid.shaari+abc@gmail.com
+      email: walid.shaari@linux.com
     repo: example
   opp: false
 
