@@ -1,2 +1,3 @@
 cloudProvider:
   storageClass: managed-csi
+  provisioner: disk.csi.azure.com

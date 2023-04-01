@@ -1,0 +1,3 @@
+cloudProvider:
+  storageClass: standard
+  provisioner: kubernetes.io/gce-pd
